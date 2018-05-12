@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8114'
     url: http://www.gutenberg.org/2009/agents/8114
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18564#The-Religion-of-Ancient-Rome
 gutenberg_bookshelf: Paganism
 gutenberg_issued: '2006-06-12'
 gutenberg_type: Text
